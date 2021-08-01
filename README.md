@@ -1,3 +1,3 @@
 # Slider-Minimal
-Um slider/carouser minimalista e elegante.
+Um slider/carousel minimalista e elegante.
 ----
